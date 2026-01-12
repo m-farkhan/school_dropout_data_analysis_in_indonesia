@@ -45,6 +45,12 @@ Pendidikan merupakan proses pembelajaran yang memberikan pengetahuan, keterampil
 ![Dashboard Analysis](dashboard_dropout.jpeg)
 [**Lihat Dashboard Interaktif di Microsoft Excel**](https://drive.google.com/drive/folders/1uws1ejUjpsa0bv2ifKP_uCmk0b5RB1Hc)
 
+## Repository Structure
+* **`dashboard_excel.xlsx`**: Workbook Excel yang menampilkan **Dashboard interaktif** sebagai hasil akhir. (Catatan: Sheet yang berisi data mentah dan proses *data cleaning* disembunyikan/*hidden* untuk menjaga tampilan agar tetap rapi).
+* **`school_dropout_data_analysis_in_indonesia.pdf`**: Laporan lengkap atau slide presentasi yang merangkum latar belakang masalah, metodologi, temuan kunci (*insights*), dan rekomendasi strategis.
+* **`dashboard_dropout.jpeg`**: Gambar pratinjau (*preview*) dari tampilan dashboard akhir untuk referensi visual cepat.
+* **`school_dropout_dataset.zip`**: File kompresi berisi dataset mentah statistik pendidikan yang digunakan sebagai sumber data analisis.
+
 *Data tentang siswa putus sekolah menunjukkan lebih dari sekadar angka, di balik setiap grafik terdapat tantangan ekonomi, kesenjangan akses, dan persoalan sosial yang saling terkait. Jumlah siswa yang berhenti sekolah mencerminkan kondisi keluarga, keterbatasan fasilitas pendidikan, serta belum meratanya pemerataan pembangunan. Ini bukan hanya masalah pendidikan, tetapi persoalan masa depan generasi. Memahami data secara menyeluruh membantu kita merangkai potret yang utuh, agar kebijakan dan intervensi yang disusun benar-benar menjawab kebutuhan di lapangan.*
 
 
