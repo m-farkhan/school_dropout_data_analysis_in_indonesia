@@ -42,6 +42,7 @@ Pendidikan merupakan proses pembelajaran yang memberikan pengetahuan, keterampil
 * Kolaborasi lintas sektor (pemerintah, sekolah, LSM, masyarakat) untuk deteksi dini dan pencegahan.
 
 ## Dashboard Preview
+![Dashboard Analysis](dashboard_dropout.jpeg)
 [**Lihat Dashboard Interaktif di Microsoft Excel**](https://drive.google.com/drive/folders/1uws1ejUjpsa0bv2ifKP_uCmk0b5RB1Hc)
 
 *Data tentang siswa putus sekolah menunjukkan lebih dari sekadar angka, di balik setiap grafik terdapat tantangan ekonomi, kesenjangan akses, dan persoalan sosial yang saling terkait. Jumlah siswa yang berhenti sekolah mencerminkan kondisi keluarga, keterbatasan fasilitas pendidikan, serta belum meratanya pemerataan pembangunan. Ini bukan hanya masalah pendidikan, tetapi persoalan masa depan generasi. Memahami data secara menyeluruh membantu kita merangkai potret yang utuh, agar kebijakan dan intervensi yang disusun benar-benar menjawab kebutuhan di lapangan.*
